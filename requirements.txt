@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+python-dotenv
+
+#python -m pip install -r requirement.txt 
+[by using this command we can install all libraries that we write in requirement.txt file ;)]
